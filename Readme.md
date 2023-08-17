@@ -30,9 +30,3 @@ Goodreads dataset by UCSD: https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/h
 ## Social Component
 
 User-provided reviews will be used to generate similarity scores between books, and between each free-form keyword and book. In addition, we may use other user book interactions (i.e. saving a book to a ‘shelf’) to further inform our similarity rankings. We will primarily look at user reviews and interactions, and not manuscripts, as we believe user interaction will be a greater indicator of similarity than the actual text of the book, and will therefore inform higher quality recommendations. 
-
-
-
-## Team Members
-
-Caroline Lui (cel243), Janie Walter (jjw249), Elisabeth Finkel (esf76), Kurt Huebner (krh57), Taixiang (Max) Zeng (tz376)
